@@ -1,13 +1,28 @@
-
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+The [IODS course webpage](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-6bc9901d-e80d-4ba7-8bce-829e42c15521/PHD-302) states the general learning objectives of the course as:
 
-```{r}
+-   *"After completing this course you will understand the principles and advantages of using **open research tools** with open data and understand the possibilities of **reproducible research**."*
+
+-   *"You will know how to use **RStudio**, **R Markdown**, and **GitHub** for these tasks, and know how to learn more of these open software tools."*
+
+-   *"You will also know how to apply certain statistical methods of data science, that is, **data-driven statistics**."*
+
+I came to the course to maintain my R routine. I have used RStudio and R Markdown before, and I have also heard that it is possible to learn new R tricks in this course, so I am looking forward to that. Using GitHub to share my work is new to me, but I think it is a useful tool worth learning how to use.
+
+I heard about this course a few years ago from Kimmo Vehkalahti. I have also heard about the course experiences from other students, and I have been planning to take the course for some time. I am glad I am finally here.
+
+Since I am already somewhat familiar with R Markdown, I am not going to do the exercises in the R for Health Data Science book at this point. However, it is good to know that it is also possible to find code examples there if necessary.
+
+Here is a link to my GitHub repository: <https://github.com/kissalauma/IODS-project/>
+
+\-\-\-\-\-\-\-\-\-\-\--
+
+*This document was last knitted on*
+
+```{r, echo=FALSE}
 # This is a so-called "R chunk" where you can write R code.
 
 date()
 
 ```
-The text continues here.
-
